@@ -10,8 +10,8 @@ El repositorio reúne la resolución de las prácticas de la materia: cada unida
 | ------ | ---- | ------ |
 | 1 | Raíces de funciones | Implementada |
 | 2 | Sistemas de ecuaciones | Implementada |
-| 3 | Ajuste de curvas | En desarrollo |
-| 4 | Integración numérica | En desarrollo |
+| 3 | Ajuste de curvas | Implementada |
+| 4 | Integración numérica | Implementada |
 
 ## Estructura del repositorio
 
