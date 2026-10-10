@@ -31,10 +31,8 @@ El repositorio reúne la resolución de las prácticas de la materia: cada unida
 
 ## Tecnologías
 
-- Lenguaje principal: _[completar: por ejemplo C#]_
+- Principal: WinForms, C#, .NET
 - Biblioteca de cálculo: C (DLL)
-- Aplicación móvil: Java (Android)
-- Control de versiones: Git y GitHub
 
 ## Cómo ejecutarlo
 
